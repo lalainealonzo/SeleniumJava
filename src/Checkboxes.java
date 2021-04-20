@@ -25,6 +25,8 @@ public class Checkboxes {
 		
 		
 		driver.close();
+		
+		System.out.println("sample commit");
 	}
 
 }

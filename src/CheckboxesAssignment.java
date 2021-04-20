@@ -32,6 +32,8 @@ public class CheckboxesAssignment {
 		
 		
 		driver.close();
+		
+		System.out.println("sample commit");
 	}
 
 }
