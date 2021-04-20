@@ -48,6 +48,8 @@ public class Alerts {
 		
 		driver.close();
 		
+		System.out.println("sample commit");
+		
 		//End of Section 8
 		
 
